@@ -1,0 +1,53 @@
+h1, h2, h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #071E22;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+ul {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+td {
+    padding: 10px 50px;
+}
+
+th, td {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.odd {
+    background-color: white;
+}
+
+.even {
+    background-color: lightgray;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+#budget-table {
+    margin: auto;
+}
+
+#budget-header {
+    text-align: center;
+}
